@@ -1,4 +1,0 @@
-﻿  main.cpp
-C:\Users\tibo1\source\repos\cpp-leftovers\PrimeNumber\PrimeNumber\main.cpp(10,1): warning C4326: le type de retour de 'main' doit être 'int' au lieu de 'void'
-C:\Users\tibo1\source\repos\cpp-leftovers\PrimeNumber\PrimeNumber\main.cpp(30,16): warning C4244: 'initialisation' : conversion de 'double' en 'int', perte possible de données
-  PrimeNumber.vcxproj -> C:\Users\tibo1\source\repos\cpp-leftovers\PrimeNumber\x64\Debug\PrimeNumber.exe
