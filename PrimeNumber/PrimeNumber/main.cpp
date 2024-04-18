@@ -29,15 +29,12 @@ vector<int> VectorPrimeNumber(int MaxValuesToCheck)
 		{
 			int MaxSqrt = sqrt(i);
 
-			for (int j = 2; j <= MaxSqrt; j++)
-			{
+			for (int j = 2; j <= MaxSqrt; ++j)
 				if (i % j == 0)
 				{
 					IsPrime = false;
 					break;
 				}
-
-			}
 			if (IsPrime)
 				PrimeNumber.push_back(i);
 		}
